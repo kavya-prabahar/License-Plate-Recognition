@@ -1,0 +1,6 @@
+train: C:/Users/Raja/Desktop/License_Plate_Detection/Dataset/train/images
+val: C:/Users/Raja/Desktop/License_Plate_Detection/Dataset/valid/images
+test: C:/Users/Raja/Desktop/License_Plate_Detection/Dataset/test/images
+
+nc: 1
+names: ['License_Plate']

@@ -1,0 +1,4 @@
+ultralytics
+easyocr
+streamlit
+opencv-python-headless
